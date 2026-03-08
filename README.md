@@ -2,7 +2,7 @@ I have created a Password Security Analyzer (CyberSecurity CLI Tool), which chec
 
 	1.	Password Strength Detection – Analyzes the password based on length, uppercase letters, lowercase letters, numbers, and special characters to determine its strength.
 	
-	2.	Dictionary Attack Detection – Checks whether the password exists in the RockYou leaked password dataset, which indicates it can be easily cracked using dictionary attacks.
+	2.	Dictionary Attack Detection – Checks whether the password exists in the RockYou leaked password dataset, which indicates it can be easily cracked using dictionary attacks. 
 	
 	3.	Entropy Calculation – Calculates password entropy to measure how unpredictable and secure the password is.
 	
@@ -17,3 +17,5 @@ I have created a Password Security Analyzer (CyberSecurity CLI Tool), which chec
 	8.	Leetspeak Detection – Detects passwords that disguise common words using character substitutions like p@ssw0rd.
 	
 	9.	Security Suggestions – Provides recommendations to improve weak passwords, such as increasing length or adding character diversity.
+
+NOTE: I used Dataset "rockyou.txt" from kaggle
